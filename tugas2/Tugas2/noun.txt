@@ -1,0 +1,36 @@
+ACTOR
+Viewer
+Submitter
+
+
+GENERAL
+form
+article
+
+NOUN RELATED TO SYSTEM
+metadata
+menu
+xml data
+
+
+Insert Metadata Use Case
+Menu - Main Page (Boundary)
+Form (Boundary)
+button (Boundary)
+progress information (Entity)
+shows message (Boundary)
+next result (Boundary)
+fills in the metadata (Control)
+
+Search Researcher Use Case
+front page (Boundary)
+enter a keyword (Control)
+search field (Boundary)
+search Button (Boundary)
+progress bar (Entity)
+list of researchers (Entity)
+
+
+
+
+ 
